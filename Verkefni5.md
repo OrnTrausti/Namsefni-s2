@@ -1,10 +1,10 @@
 ## Verkefni 5  
 - 10% af heildareinkunn
 - Viðfangsefni: 
-  - [Firebase Realtime Database](https://github.com/vefthroun/Namsefni/tree/main/6-Gagnagrunnur#firebase)
+  - [Firebase Realtime Database](https://github.com/vefthroun/Namsefni-s2/tree/main/6-Gagnagrunnur#firebase)
       1. Uppsetning á gagnagrunni fyrir vefapp.
       1. Gagnagrunnsaðgerðir (CRUD) með Pyrebase4.
- - [WYSIWYG HTML editor](https://github.com/vefthroun/Namsefni/blob/main/4-WTForms/Readme.md#wysiwyg-html-editor) notum CKEditor
+ - [WYSIWYG HTML editor](https://github.com/vefthroun/Namsefni-s2/blob/main/4-WTForms/Readme.md#wysiwyg-html-editor) notum CKEditor
  - Dýnamísk HTML Tafla.
  - Jinja Filters.
 
@@ -53,4 +53,9 @@
 1. Admin notandi skráir sig út (5%)
 1. Uppsetning / framsetning með PureCSS og eigin CSS (10%)
 
-Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) ásamt skjámynd af fb gagnagrunni á Innu.  **Hafðu admin notanda með email: admin@admin.is pass: 123456 í Auth hluta Firebase**
+### Verkefnaskil
+
+- Skilaðu verkefni 5 í eigin verkefnageymslu (_repository_)  með öllum skrám ásamt skjámynd af fb gagnagrunni á Innu.  **Hafðu admin notanda með email: admin@admin.is pass: 123456 í Auth hluta Firebase**
+- Ekki skila **venv** umsjónarkerfinu í verkefnageymsluna notið  **.gitignore** til að koma í veg fyrir það
+
+

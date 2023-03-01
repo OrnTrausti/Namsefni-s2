@@ -34,8 +34,10 @@ Flask app (vefur) þarf að uppfylla eftirfarandi:
    1. Errorhandler routes (10%)
   
 
+### Verkefnaskil
 
-Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) á Innu.
+- Skilaðu verkefni 12 í eigin verkefnageymslu (_repository_) 
+- Ekki skila **venv** umsjónarkerfinu í verkefnageymsluna notið  **.gitignore** til að koma í veg fyrir það
 
 ---
 

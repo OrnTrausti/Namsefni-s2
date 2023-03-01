@@ -117,9 +117,9 @@ Einkunn:
 
 ---
 
-### Skil
+### Verkefnaskil
 
-- Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) 
+- Skilaðu verkefni 6 í eigin verkefnageymslu (_repository_) 
 - Skilaðu einnig vefslóð á hýsingu, admin innskráningar upplýsingum (user:admin@admin.is, password:123456) og skjámynd að gagnagrunni á Firebase og Security Rules ef þú útfærir gagnagrunninn í Locked Mode.
 
 **Gangi þér vel!**

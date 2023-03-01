@@ -4,8 +4,8 @@
 ---
 
 #### 1. Flask uppsetning
-1. Settu upp [FLASK](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#hva%C3%B0-er-flask) í VENV umhverfi. 
-1. Stilltu og notaðu [VSCode](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#vs-code-ritill-python-og-venv) editor.
+1. Settu upp [FLASK](https://github.com/vefthroun/Namsefni-s2/blob/main/2-Flask/Readme.md#hva%C3%B0-er-flask) í VENV umhverfi. 
+1. Stilltu og notaðu [VSCode](https://github.com/vefthroun/Namsefni-s2/blob/main/2-Flask/Readme.md#vs-code-ritill-python-og-venv) editor.
 
 #### 2. Einfalt Flask app - 3 síður  
 Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_); 1 forsíða og 2 undirsíður.
@@ -15,7 +15,7 @@
 
 ---
 
-### Námsmat og skil
+### Námsmat 
 Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hluta til kominn eða ófullnægjandi og ekkert ef hann vantar.
 
 1. Flask uppsetning með VENV umhverfi **(10%)** 
@@ -27,4 +27,7 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 1. Unnið með static skrár (myndir/css), notum url_for til að vísa í static skrárnar með réttum hætti **(10%)**
 1. PureCSS Menu og eigið css **(10%)**
 
-Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv möppu) á Innu.
+### Verkefnaskil
+
+- Skilaðu verkefni 1 í eigin verkefnageymslu (_repository_) 
+- Ekki skila **venv** umsjónarkerfinu í verkefnageymsluna notið  **.gitignore** til að koma í veg fyrir það

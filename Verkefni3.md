@@ -76,7 +76,10 @@ Einkunn:
   - Engu skilað, eins / líkar lausnir hjá 2 eða fleiri nemendum
 
 
-Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) á Innu.
+### Verkefnaskil
+
+- Skilaðu verkefni 3 í eigin verkefnageymslu (_repository_) 
+- Ekki skila **venv** umsjónarkerfinu í verkefnageymsluna notið  **.gitignore** til að koma í veg fyrir það
 
 ---
 

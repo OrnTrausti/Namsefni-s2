@@ -2,8 +2,8 @@
 - 10% af heildareinkunn
 - Viðfangsefni:
   1. [Firebase Authentication](https://firebase.google.com/products/auth?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrEtvE57H2m6H_lRneDW80cc-iUJLxlzvZRbKca57QR-9vnX0QwBLVwaAug8EALw_wcB&gclsrc=aw.ds).
-  1. [WTForms](https://github.com/vefthroun/Namsefni/tree/main/WTForms) 
-  1. [Sessions](https://github.com/vefthroun/Namsefni/tree/main/4-Cookies%26Sessions)
+  1. [WTForms](https://github.com/vefthroun/Namsefni-s2/tree/main/WTForms) 
+  1. [Sessions](https://github.com/vefthroun/Namsefni-s2/tree/main/4-Cookies%26Sessions)
   1. [Flash message](https://flask.palletsprojects.com/en/2.2.x/patterns/flashing/)
   <!--1. [PureCSS Form](https://purecss.io/forms/)-->
   1. Datetime timestamp
@@ -29,7 +29,7 @@
 
 ---
 
-### Námsmat og skil
+### Námsmat 
 
 1. Uppsetning WTForm klasa fyrir formvinnslu (login og register form). Klasar passa upp á að innsláttarsvæði séu ekki tóm með validation (20%)
 1. Notandi nýskráir sig, vefsíða með WTForm klasa og virkni:
@@ -47,4 +47,7 @@
 1. Flash message (5%)
 1. PureCss og eigið (5%)
 
-Skilaðu þjappaðri ( zip/rar ) möppu með öllum skrám (ekki venv) á Innu.
+### Verkefnaskil
+
+- Skilaðu verkefni 4 í eigin verkefnageymslu (_repository_) 
+- Ekki skila **venv** umsjónarkerfinu í verkefnageymsluna notið  **.gitignore** til að koma í veg fyrir það
