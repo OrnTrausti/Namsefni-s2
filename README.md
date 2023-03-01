@@ -1,6 +1,7 @@
 ### VEFÞ2VF05CU
 - Vorönn 2023, spönn 2
 - [Kennsluáætlun](https://github.com/vefthroun/Namsefni-s2/blob/main/VEFÞ2VF05CU_V23-2.pdf)
+-  Verkefnaskil: Nemendur stofna verkefnageymslu (_Privat Repository_) á Github og skila öllum verkefnum áfangans þar. Kennari þarf að fá aðgang að verkefnageymslunni (_Collaborator_) til að fara yfir verkefnin.
 
 ---
 
@@ -28,4 +29,4 @@
 * Verkefni 5, [Firebase](https://github.com/vefthroun/Namsefni-s2/tree/main/5-Gagnagrunnur)
 * Verkefni 6, [Lokaverkefni](https://github.com/vefthroun/Namsefni-s2/blob/main/6-lokaverkefni/)
 
-
+* 👋 [Bjargir](https://github.com/vefumsjon/Namsefni-s2/wiki)
