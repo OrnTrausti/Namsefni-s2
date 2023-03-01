@@ -29,4 +29,6 @@
 * Verkefni 5, [Firebase](https://github.com/vefthroun/Namsefni-s2/tree/main/5-Gagnagrunnur)
 * Verkefni 6, [Lokaverkefni](https://github.com/vefthroun/Namsefni-s2/blob/main/6-lokaverkefni/)
 
+---
+
 * 👋 [Bjargir](https://github.com/vefumsjon/Namsefni-s2/wiki)
