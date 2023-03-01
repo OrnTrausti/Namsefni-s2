@@ -17,14 +17,14 @@
 
 #### Námsefni
 
-* Verkefni 1 - 2, [Flask](https://github.com/vefthroun/Namsefni-s2/blob/main/2-Flask/)
-* Verkefni 2, [Routes](https://github.com/vefthroun/Namsefni-s2/blob/main/2-Flask/Routes/)
-* Verkefni 2, [Templates](https://github.com/vefthroun/Namsefni-s2/blob/main/2-Flask/Templates/)
-* Verkefni 2, [CSS](https://github.com/vefthroun/Namsefni-s2/blob/main/2-Flask/CSS.md)
+* Verkefni 1 - 2, [Flask](https://github.com/vefthroun/Namsefni-s2/tree/main/2-Flask/)
+* Verkefni 2, [Routes](https://github.com/vefthroun/Namsefni-s2/tree/main/2-Flask/Routes/)
+* Verkefni 2, [Templates](https://github.com/vefthroun/Namsefni-s2/tree/main/2-Flask/Templates/)
+* Verkefni 2, [CSS](https://github.com/vefthroun/Namsefni-s2/tree/main/2-Flask/CSS.md)
 * Verkefni 3, [JSON](https://github.com/vefthroun/Namsefni-s2/tree/main/3-Json/)
-* Verkefni 3, [API](https://github.com/vefthroun/Namsefni-s2/blob/main/3-API/)
+* Verkefni 3, [API](https://github.com/vefthroun/Namsefni-s2/tree/main/3-API/)
 * Verkefni 4, [Sessions](https://github.com/vefthroun/Namsefni-s2/tree/main/4-Cookies%26Sessions/)
-* Verkefni 4, [WTForms](https://github.com/vefthroun/Namsefni-s2/blob/main/WTForms/)
+* Verkefni 4, [WTForms](https://github.com/vefthroun/Namsefni-s2/tree/main/4-WTForms)
 * Verkefni 5, [Firebase](https://github.com/vefthroun/Namsefni-s2/tree/main/5-Gagnagrunnur)
 * Verkefni 6, [Lokaverkefni](https://github.com/vefthroun/Namsefni-s2/blob/main/6-lokaverkefni/)
 
