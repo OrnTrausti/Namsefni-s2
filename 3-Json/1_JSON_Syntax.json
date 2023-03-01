@@ -1,0 +1,17 @@
+// Það er ekki hægt að nota comments í JSON skrá (smá svindl hér fyrir skýringar)
+
+// JSON 
+{"name":"Lushui","species":"Panda","diet":"Green Things","age":7,"colours":["red","brown","white"]}
+
+// eða svona, autt bil (white space) skiptir engu máli.
+{
+    "name": "Lushui",
+    "species": "Panda",
+    "diet": "Green Things",
+    "age": 7,
+    "colours": [
+        "red",
+        "brown",
+        "white"
+    ]
+}

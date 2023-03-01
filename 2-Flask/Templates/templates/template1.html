@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <title>Jinja sýnidæmi</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- slaufusvigarnir eru e. placeholders  -->
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+</head>
+<body>
+    <p>Þetta er dæmi um einfalt template.</p>
+    <img src="{{url_for('static', filename='image.png')}}">
+</body>
+</html>
