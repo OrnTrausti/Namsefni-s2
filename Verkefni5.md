@@ -4,7 +4,7 @@
   - [Firebase Realtime Database](https://github.com/vefthroun/Namsefni/tree/main/6-Gagnagrunnur#firebase)
       1. Uppsetning á gagnagrunni fyrir vefapp.
       1. Gagnagrunnsaðgerðir (CRUD) með Pyrebase4.
- - [WYSIWYG HTML editor](https://github.com/vefthroun/Namsefni/blob/main/WTForms/Readme.md#wysiwyg-html-editor) notum CKEditor
+ - [WYSIWYG HTML editor](https://github.com/vefthroun/Namsefni/blob/main/4-WTForms/Readme.md#wysiwyg-html-editor) notum CKEditor
  - Dýnamísk HTML Tafla.
  - Jinja Filters.
 

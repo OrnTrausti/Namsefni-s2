@@ -8,7 +8,7 @@
 
 ### Verkefnalýsing
 
-Útfærðu persónulegan bloggvef með Flask, [sýnidæmi](https://blog-admin-ui.netlify.app/). Efnisval (texti og myndir) er valfrjálst en færslurnar þurfa að vera **10** að lágmarki (ekki bull). Notaðu PureCSS safn og eigið CSS fyrir uppsetningu (layout) og útlit. Gert er ráð fyrir sjálfstæðum vinnubrögðum.  Verkefnið er einstaklingsverkefni.
+Útfærðu persónulegan bloggvef með Flask, [sýnidæmi](https://blog-admin-ui.netlify.app/). Efnisval (texti og myndir) er valfrjálst en færslurnar þurfa að vera **10** að lágmarki (ekki bull). Notaðu eigið CSS eða PureCSS fyrir uppsetningu (layout) og útlit. Gert er ráð fyrir sjálfstæðum vinnubrögðum.  Verkefnið er einstaklingsverkefni.
 
 1. Forsíða: 
     1. birtir alla pistla sem allir geta lesið, nýjasti birtist efst. 
