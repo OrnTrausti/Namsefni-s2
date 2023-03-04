@@ -17,5 +17,7 @@ Allar þessar aðferðir þurfa bæði stuðning í vöfrum sem notaðir eru, en
 
 ---
 
+## Python 
 
+* [List, tuple, set and dictionary in Python](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
 
