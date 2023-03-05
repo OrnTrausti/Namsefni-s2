@@ -7,7 +7,7 @@
    1. PureCss, eigið Css 
 
 ### Verkefnalýsing 
-Útfærðu vörusíðuvef með Flask. Notaðu [gagnagrindina](#data) og myndir sem fylgja verkefninu. Notaðu [purecss](https://purecss.io/) safnið fyrir uppsetningu og framsetningu á vef. Engin harðkóðun.
+Útfærðu vörusíðuvef með Flask. Notaðu [gagnagrindina](#data) og myndir sem fylgja verkefninu. Notaðu eigin stílsíðu eða [purecss](https://purecss.io/) safnið fyrir uppsetningu og framsetningu á vef. Engin harðkóðun.
 
 Flask app (vefur) þarf að uppfylla eftirfarandi:
 
