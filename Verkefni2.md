@@ -30,7 +30,8 @@ Flask app (vefur) þarf að uppfylla eftirfarandi:
    1. Undirsíða sem birtir valda vöru af forsíðu (dynamic routing) (20%)
    1. Undirsíða sem birtir allar vörur úr ákveðnum flokki (dynamic routing) (20%)  
    1. Notkun á Jinja: include (header, menu og footer) á öllum vefsíðum með Jinja (10%)
-   1. Vefur er responsive með frjálsri dálkauppsetning á forsíðu með [Pure Responsive Grid](https://purecss.io/grids/#pure-responsive-grids).  Nota einnig eigið Css  (15%)
+   1. Vefur er responsive með frjálsri dálkauppsetning á forsíðu með [Pure Responsive Grid](https://purecss.io/grids/#pure-responsive-grids) (10%).  
+   1. Nota einnig eigið Css  (5%)
    1. Errorhandler routes (10%)
   
 
