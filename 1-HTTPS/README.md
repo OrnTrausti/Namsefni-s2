@@ -15,9 +15,5 @@ Allar þessar aðferðir þurfa bæði stuðning í vöfrum sem notaðir eru, en
 * [Network Monitor, Mozilla](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
 * [Network Monitor, Google](https://developer.chrome.com/docs/devtools/network/)
 
----
 
-### Python 
-
-* [List, tuple, set and dictionary in Python](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
 
