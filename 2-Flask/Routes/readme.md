@@ -18,3 +18,9 @@
 - [Query Strings (pdf)](https://github.com/vefthroun/Namsefni/blob/main/1-HTTPS/QueryString_GETRequest_Routing.pdf)
 - [Quick start: Flask Routing](https://flask.palletsprojects.com/en/2.2.x/quickstart/#routing)
 - [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
+
+---
+
+### Python 
+
+* [List, tuple, set and dictionary in Python](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
