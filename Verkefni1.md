@@ -24,7 +24,7 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 1. Undirsíða nr. 2 birtir gögn úr dict **(10%)**
 1. Jinja template fyrir vefsíður, breytur og lykkjur **(20%)**
 1. Static routing og 404 Error route **(20%)**
-1. Unnið með static skrár (myndir/css), notum url_for til að vísa í static skrárnar með réttum hætti **(10%)**
+1. Unnið með static skrár (myndir/css) **(10%)**
 1. CSS stílsíða  **(10%)**
 
 ### Verkefnaskil
