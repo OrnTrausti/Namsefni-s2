@@ -3,8 +3,8 @@
 - Viðfangsefni: 
    1. Data structure: Listi með dictionary
    1. Dynamic routing 
-   1. Jinja Template: include
-   1. PureCss, eigið Css 
+   1. Jinja Template: include og extends
+   1. Eigið Css eða PureCss 
 
 ### Verkefnalýsing 
 Útfærðu vörusíðuvef með Flask. Notaðu [gagnagrindina](#data) og myndir sem fylgja verkefninu. Notaðu eigin stílsíðu eða [purecss](https://purecss.io/) safnið fyrir uppsetningu og framsetningu á vef. Engin &lt;html> harðkóðun.
@@ -18,7 +18,6 @@ Flask app (vefur) þarf að uppfylla eftirfarandi:
 1. Gögn hlekkja / texti hlekkja skal koma úr gagnagrind, ekki harðkóða í template.
 1. Fótur (footer) skal innihalda upplýsingar um höfund verkefnis.
 1. Engin harðkóðun.
-
 
 ---
 
