@@ -36,7 +36,7 @@
     - útgáfudagur bíómyndar (release_date)
     - lengd bíómyndar (runtime)
     - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formati
- - Flokkar sem bíómynd tilheyrir (genre)
+ - Flokkar sem bíómynd tilheyrir (movie genre)
  - Jinja: erfðir, include, lúppur og skilyrði
  - CSS Responsive Grid uppsetning
  - Viðeigandi errorhandler routes    
