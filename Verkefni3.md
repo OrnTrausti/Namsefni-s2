@@ -28,15 +28,15 @@
 ---
 ### Námsmat
 
-- Forsíða birtir 20 bíómyndir með nafni (original_title) og mynd (poster_path) bíómyndar (static route) þegar semllt er á mynd birtist undirsíða
+- Forsíða birtir 20 bíómyndir með nafni (_original-title_) og mynd (_poster-path_) bíómyndar (_static route_) þegar semllt er á mynd birtist undirsíða
 - Undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
     - nafn bíómyndar (original_title)
-    - mynd (poster_path)
-    - textalýsing bíómyndar (overview)
-    - útgáfudagur bíómyndar (release_date)
-    - lengd bíómyndar (runtime)
-    - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formati
- - Flokkar sem bíómynd tilheyrir (movie genre)
+    - mynd (_poster-path_)
+    - textalýsing bíómyndar (_overview_)
+    - útgáfudagur bíómyndar (_release-date_)
+    - lengd bíómyndar (_runtime_)
+    - útgáfudagur bíómyndar (_release-date_), dagsetning á íslensku formati
+ - Flokkar sem bíómynd tilheyrir (kvikmyndagrein - _movie genre_)
  - Jinja: erfðir, include, lúppur og skilyrði
  - CSS Responsive Grid uppsetning
  - Viðeigandi errorhandler routes    
@@ -50,15 +50,15 @@
   - Upplýsingar um helstu leikara og leikstjóra fyrir valda bíómynd ( sigta út, ekki lúppa í gegnum allt "crew" og birta )
   - bætist við einkunn 8
 - 8
-  - Ef valinn er flokkur (genre) í efnisyfirliti (nav) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
+  - Ef valinn er flokkur (_genre_) í efnisyfirliti (_nav_) opnast síða sem birtir random bíómyndir úr völdum flokk (_dynamic route_)
   - bætist við einkunn 7 
 - 7
-  - Textalýsing (overview) bíómyndar kemur á íslensku ef hún er til, annars á ensku
-  - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formati
+  - Textalýsing (_overview_) bíómyndar kemur á íslensku ef hún er til, annars á ensku
+  - útgáfudagur bíómyndar (_release-date_), dagsetning á íslensku formati
   - bætist við einkunn 6
 - 6
-  - Undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
-    - nafn bíómyndar (original_title)
+  - Undirsíða birtir nánari upplýsingar um valda bíómynd (_dynamic route_)
+    - nafn bíómyndar (_original-title_)
     - mynd (poster_path)
     - textalýsing bíómyndar (overview)
     - útgáfudagur bíómyndar (release_date)
@@ -68,19 +68,19 @@
   - Hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)  
   - bætist við einkunn 5
 - 5
-  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
+  - forsíða birtir nafn (_original-title_) og mynd (poster_path) bíómyndar (static route)
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja template
   - Responsive Grid uppsetning í lagi
   - bætist við einkunn 4
 - 4
-  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
+  - forsíða birtir nafn (_original-title_) og mynd (poster_path) bíómyndar (static route)
   - Undirsíða birtir valda bíómynd
   - Stílsíða virk en hnökrar í útlitshönnun 
   - bætist við einkunn 3
 - 3   
   - Jinja ábótavant (ekki erfðir og / eða  ekki include)
-  - Stílsíða vantar (birtist ekki)
+  - Stílsíða vantar eða birtist ekki
   - bætist við einkunn 2 
 - 2
   - Keyrir en lítil sem engin virkni (Json)
@@ -88,7 +88,7 @@
   - Keyrir ekki, stórlega ábótavant
 - 0
   - Engu skilað
-  - Eins lausnir hjá tveimur eða fleiri nemendum
+  - **Eins lausnir hjá tveimur eða fleiri nemendum**
 
 
 ### Verkefnaskil
