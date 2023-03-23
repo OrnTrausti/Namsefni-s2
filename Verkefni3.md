@@ -39,8 +39,7 @@
  - Flokkar sem bíómynd tilheyrir (genre)
  - Jinja: erfðir, include, lúppur og skilyrði
  - CSS Responsive Grid uppsetning
-
-  - viðeigandi errorhandler routes    
+ - Viðeigandi errorhandler routes    
 
 ### Sundurliðun Einkunnar:
 
