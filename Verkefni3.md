@@ -46,17 +46,17 @@
 
 - 10
   - Hægt að skoða trailer fyrir valda bíómynd 
-  - + einkunn 9
+  - bætist við einkunn 9
 - 9
   - Upplýsingar um helstu leikara og leikstjóra fyrir valda bíómynd ( sigta út, ekki lúppa í gegnum allt "crew" og birta )
-  - + einkunn 8
+  - bætist við einkunn 8
 - 8
   - Ef valinn er flokkur (genre) í efnisyfirliti (nav) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
-  - + einkunn 7 
+  - bætist við einkunn 7 
 - 7
   - Textalýsing (overview) bíómyndar kemur á íslensku ef hún er til, annars á ensku
   - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formati
-  - + einkunn 6
+  - bætist við einkunn 6
 - 6
   - Undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
     - nafn bíómyndar (original_title)
@@ -67,22 +67,22 @@
     - flokkar sem bíómynd tilheyrir (genre)
   - Viðeigandi errorhandler routes  
   - Hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)  
-  - + einkunn 5
+  - bætist við einkunn 5
 - 5
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja template
   - Responsive Grid uppsetning í lagi
-  - + einkunn 4
+  - bætist við einkunn 4
 - 4
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - Undirsíða birtir valda bíómynd
   - Stílsíða virk en hnökrar í útlitshönnun 
-  - + einkunn 3
+  - bætist við einkunn 3
 - 3   
   - Jinja ábótavant (ekki erfðir og / eða  ekki include)
   - Stílsíða vantar (birtist ekki)
-  - + einkunn 2 
+  - bætist við einkunn 2 
 - 2
   - Keyrir en lítil sem engin virkni (Json)
 - 1
