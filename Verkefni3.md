@@ -51,35 +51,37 @@
   - Upplýsingar um helstu leikara og leikstjóra fyrir valda bíómynd ( sigta út, ekki lúppa í gegnum allt "crew" og birta )
   - + einkunn 8
 - 8
-  - Ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
+  - Ef valinn er flokkur (genre) í efnisyfirliti (nav) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
   - + einkunn 7 
 - 7
   - Textalýsing (overview) bíómyndar kemur á íslensku ef hún er til, annars á ensku
   - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formati
-  - hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)
   - + einkunn 6
 - 6
-  - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
+  - Undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
     - nafn bíómyndar (original_title)
     - mynd (poster_path)
     - textalýsing bíómyndar (overview)
     - útgáfudagur bíómyndar (release_date)
     - lengd bíómyndar (runtime)
     - flokkar sem bíómynd tilheyrir (genre)
-  - viðeigandi errorhandler routes    
+  - Viðeigandi errorhandler routes  
+  - Hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)  
   - + einkunn 5
 - 5
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja template
-  - frjáls Responsive Grid uppsetning
+  - Responsive Grid uppsetning í lagi
   - + einkunn 4
 - 4
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
-  - smávægilegir hnökrar í útlitshönnun sleppa
+  - Undirsíða birtir valda bíómynd
+  - Stílsíða virk en hnökrar í útlitshönnun 
   - + einkunn 3
 - 3   
   - Jinja ábótavant (ekki erfðir og / eða  ekki include)
+  - Stílsíða vantar (birtist ekki)
   - + einkunn 2 
 - 2
   - Keyrir en lítil sem engin virkni (Json)
