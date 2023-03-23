@@ -44,28 +44,20 @@
 
 ### Sundurliðun Einkunnar:
 
-- 10 
-  - Sama og einkunn 9 + 
-  - Auka virkni að eigin vali í samráði við kennara
+- 10
+  - Hægt að skoða trailer fyrir valda bíómynd 
+  - + einkunn 9
 - 9
-  - Sama og einkunn 8 +
-  - Hægt að skoða trailer fyrir valda bíómynd
+  - Upplýsingar um helstu leikara og leikstjóra fyrir valda bíómynd ( sigta út, ekki lúppa í gegnum allt "crew" og birta )
+  - + einkunn 8
 - 8
-  - Sama og einkunn 7 +
-  - Upplýsingar um helstu leikara og leikstjóra fyrir valda bíómynd ( ekki lúppa í gegnum allt "crew" og birta, sigta út  )
-- 7
-  - Sama og einkunn einkunn 6 +
   - Ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
-- 6
-  - Sama og einkunn 5 +
+  - + einkunn 7 
+- 7
   - Textalýsing (overview) bíómyndar kemur á íslensku ef hún er til, annars á ensku
-- 5
-  - Sama og einkunn 4 + 
   - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formatti
-  - viðeigandi errorhandler routes    
-  - hnökralaus útlitshönnun (eigið CSS og PureCSS virkar að fullu)
-- 4
-  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
+  - + einkunn 6
+- 6
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
     - nafn bíómyndar (original_title)
     - mynd (poster_path)
@@ -73,17 +65,24 @@
     - útgáfudagur bíómyndar (release_date)
     - lengd bíómyndar (runtime)
     - flokkar sem bíómynd tilheyrir (genre)
+  - viðeigandi errorhandler routes    
+  - hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)
+  - + einkunn 5
+- 5
+  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja template
-  - frjáls PureCSS Responsive Grid uppsetning
-  - smávægilegir hnökrar í útlitshönnun sleppa
-- 3
+  - frjáls Responsive Grid uppsetning
+  - + einkunn 4
+- 4
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
-  - Jinja ábótavant (ekki erfðir og  / eða  ekki include)
-  - harðkóðun í Jinja template
+  - smávægilegir hnökrar í útlitshönnun sleppa
+  - + einkunn 3
+- 3   
+  - Jinja ábótavant (ekki erfðir og / eða  ekki include)
+  - + einkunn 2 
 - 2
-  - Keyrir en lítil sem engin virkni
-  - harðkóðun í Jinja template
+  - Keyrir en lítil sem engin virkni (Json)
 - 1
   - Keyrir ekki, stórlega ábótavant
 - 0
