@@ -29,8 +29,8 @@
 ### Námsmat
 
 - Forsíða birtir 20 bíómyndir með nafni (_original-title_) og mynd (_poster-path_) bíómyndar (_static route_) þegar semllt er á mynd birtist undirsíða
-- Undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
-    - nafn bíómyndar (original_title)
+- Undirsíða birtir nánari upplýsingar um valda bíómynd (_dynamic route_)
+    - nafn bíómyndar (_original-title_)
     - mynd (_poster-path_)
     - textalýsing bíómyndar (_overview_)
     - útgáfudagur bíómyndar (_release-date_)
@@ -59,28 +59,28 @@
 - 6
   - Undirsíða birtir nánari upplýsingar um valda bíómynd (_dynamic route_)
     - nafn bíómyndar (_original-title_)
-    - mynd (poster_path)
-    - textalýsing bíómyndar (overview)
-    - útgáfudagur bíómyndar (release_date)
-    - lengd bíómyndar (runtime)
-    - flokkar sem bíómyndir tilheyra (genre)
+    - mynd (_poster-path_)
+    - textalýsing bíómyndar (_overview_)
+    - útgáfudagur bíómyndar (_release-date_)
+    - lengd bíómyndar (_runtime_)
+    - flokkar sem bíómyndir tilheyra (_genre_)
   - Viðeigandi errorhandler routes  
   - Hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)  
   - bætist við einkunn 5
 - 5
-  - forsíða birtir nafn (_original-title_) og mynd (poster_path) bíómyndar (static route)
+  - forsíða birtir nafn (_original-title_) og mynd (_poster-path_) bíómyndar (_static route_)
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja template
   - Responsive Grid uppsetning í lagi
   - bætist við einkunn 4
 - 4
-  - forsíða birtir nafn (_original-title_) og mynd (poster_path) bíómyndar (static route)
+  - forsíða birtir nafn (_original-title_) og mynd (_poster-path_) bíómyndar (_static route_)
   - Undirsíða birtir valda bíómynd
   - Stílsíða virk en hnökrar í útlitshönnun 
   - bætist við einkunn 3
 - 3   
   - Jinja ábótavant (ekki erfðir og / eða  ekki include)
-  - Stílsíða vantar eða birtist ekki
+  - Vantar stílsíðu eða hún birtist ekki
   - bætist við einkunn 2 
 - 2
   - Keyrir en lítil sem engin virkni (Json)
