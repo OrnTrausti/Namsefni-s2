@@ -86,7 +86,8 @@
 - 1
   - Keyrir ekki, stórlega ábótavant
 - 0
-  - Engu skilað, eins / líkar lausnir hjá 2 eða fleiri nemendum
+  - Engu skilað
+  - Eins lausnir hjá tveimur eða fleiri nemendum
 
 
 ### Verkefnaskil
