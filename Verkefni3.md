@@ -55,7 +55,8 @@
   - + einkunn 7 
 - 7
   - Textalýsing (overview) bíómyndar kemur á íslensku ef hún er til, annars á ensku
-  - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formatti
+  - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formati
+  - hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)
   - + einkunn 6
 - 6
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
@@ -66,7 +67,6 @@
     - lengd bíómyndar (runtime)
     - flokkar sem bíómynd tilheyrir (genre)
   - viðeigandi errorhandler routes    
-  - hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)
   - + einkunn 5
 - 5
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
