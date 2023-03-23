@@ -69,7 +69,7 @@
   - bætist við einkunn 5
 - 5
   - forsíða birtir nafn (_original-title_) og mynd (_poster-path_) bíómyndar (_static route_)
-  - Jinja: erfðir, include, lúppur og skilyrði
+  - Jinja: erfðir, _include_, lúppur og skilyrði
   - engin harðkóðun í Jinja template
   - Responsive Grid uppsetning í lagi
   - bætist við einkunn 4
@@ -79,11 +79,11 @@
   - Stílsíða virk en hnökrar í útlitshönnun 
   - bætist við einkunn 3
 - 3   
-  - Jinja ábótavant (ekki erfðir og / eða  ekki include)
+  - Jinja ábótavant, vantar erfðir - _extends_ og/eða  innifalið - _include_
   - Vantar stílsíðu eða hún birtist ekki
   - bætist við einkunn 2 
 - 2
-  - Keyrir en lítil sem engin virkni (Json)
+  - Keyrir en lítil sem engin virkni (_Json_)
 - 1
   - Keyrir ekki, stórlega ábótavant
 - 0
