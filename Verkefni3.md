@@ -63,7 +63,7 @@
     - textalýsing bíómyndar (_overview_)
     - útgáfudagur bíómyndar (_release-date_)
     - lengd bíómyndar (_runtime_)
-    - flokkar sem bíómyndir tilheyra (_genre_)
+    - flokkar sem bíómyndir tilheyra (_genre_) í efnisyfirliti (_nav_)
   - Viðeigandi errorhandler routes  
   - Hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)  
   - bætist við einkunn 5
