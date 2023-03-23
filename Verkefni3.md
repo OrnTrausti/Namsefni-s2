@@ -63,7 +63,7 @@
     - textalýsing bíómyndar (overview)
     - útgáfudagur bíómyndar (release_date)
     - lengd bíómyndar (runtime)
-    - flokkar sem bíómynd tilheyrir (genre)
+    - flokkar sem bíómyndir tilheyra (genre)
   - Viðeigandi errorhandler routes  
   - Hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)  
   - bætist við einkunn 5
