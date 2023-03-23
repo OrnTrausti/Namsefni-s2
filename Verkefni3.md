@@ -26,10 +26,24 @@
 **Ath:** Ekki setja inn persónuupplýsingar, sumir API biðja um að fá kreditkorta upplýsingar (sleppa þeim).<br>
 
 ---
+### Námsmat
 
-### Nánari verklýsing, námsmat og skil
+- Forsíða birtir 20 bíómyndir með nafni (original_title) og mynd (poster_path) bíómyndar (static route) þegar semllt er á mynd birtist undirsíða
+- Undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
+    - nafn bíómyndar (original_title)
+    - mynd (poster_path)
+    - textalýsing bíómyndar (overview)
+    - útgáfudagur bíómyndar (release_date)
+    - lengd bíómyndar (runtime)
+    - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formati
+ - Flokkar sem bíómynd tilheyrir (genre)
+ - Jinja: erfðir, include, lúppur og skilyrði
+ - CSS Responsive Grid uppsetning
 
-Einkunn:
+  - viðeigandi errorhandler routes    
+
+### Sundurliðun Einkunnar:
+
 - 10 
   - Sama og einkunn 9 + 
   - Auka virkni að eigin vali í samráði við kennara
