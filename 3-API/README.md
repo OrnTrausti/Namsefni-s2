@@ -15,7 +15,10 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 - [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 - [REST API using Flask in 7 minutes](https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239) _með Python, Flask og Sqlite3_
 
+---
 
+- [TMBD documentation - API](https://www.themoviedb.org/documentation/api)
+- [TMDB getting started](https://developers.themoviedb.org/3/getting-started/introduction)
 
 <!--
 #### Senda og láta greina gögn, svar er JSON (gert í VESM3 áfanga)
