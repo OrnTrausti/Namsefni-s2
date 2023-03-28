@@ -51,10 +51,13 @@
   - bætist við einkunn 8
 - 8
   - Ef valinn er flokkur (_genre_) í efnisyfirliti (_nav_) opnast síða sem birtir random bíómyndir úr völdum flokk (_dynamic route_)
+  - Textalýsing (_overview_) bíómyndar kemur á íslensku ef hún er til, annars á ensku 
+  - dagsetning á íslensku formati
   - bætist við einkunn 7 
 - 7
-  - Textalýsing (_overview_) bíómyndar kemur á íslensku ef hún er til, annars á ensku
-  - útgáfudagur bíómyndar (_release-date_), dagsetning á íslensku formati
+  - flokkar sem bíómyndir tilheyra (_genre_) í efnisyfirliti (_nav_)
+  - Textalýsing (_overview_) bíómyndar 
+  - Leikstjóri myndar með mynd
   - bætist við einkunn 6
 - 6
   - Undirsíða birtir nánari upplýsingar um valda bíómynd (_dynamic route_)
@@ -63,7 +66,7 @@
     - textalýsing bíómyndar (_overview_)
     - útgáfudagur bíómyndar (_release-date_)
     - lengd bíómyndar (_runtime_)
-    - flokkar sem bíómyndir tilheyra (_genre_) í efnisyfirliti (_nav_)
+
   - Viðeigandi errorhandler routes  
   - Hnökralaus útlitshönnun (eigið CSS eða PureCSS virkar að fullu)  
   - bætist við einkunn 5
