@@ -56,8 +56,7 @@
   - bætist við einkunn 7 
 - 7
   - flokkar sem bíómyndir tilheyra (_genre_) í efnisyfirliti (_nav_)
-  - Textalýsing (_overview_) bíómyndar 
-  - Leikstjóri myndar með mynd
+  - Leikstjóri myndar, texti og ljósmynd
   - bætist við einkunn 6
 - 6
   - Undirsíða birtir nánari upplýsingar um valda bíómynd (_dynamic route_)
