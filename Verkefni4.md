@@ -24,7 +24,7 @@
 1. Notaðu flash message til að láta vita hvort aðgerðir hafa tekist.
 1. Útfærðu útskráningar virkni (eyða session).
 1. Notaðu alla eiginleika Jinja template úr fyrri verkefnum.
-1. NotaðuPureCSS og eigið Css fyrir framsetningu. 
+1. Notaðu eigið CSS eða PureCSS fyrir framsetningu. 
 1. Engin harðkóðun.
 
 ---
