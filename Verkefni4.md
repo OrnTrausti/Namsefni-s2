@@ -2,7 +2,7 @@
 - 10% af heildareinkunn
 - Viðfangsefni:
   1. [Firebase Authentication](https://firebase.google.com/products/auth?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrEtvE57H2m6H_lRneDW80cc-iUJLxlzvZRbKca57QR-9vnX0QwBLVwaAug8EALw_wcB&gclsrc=aw.ds).
-  1. [WTForms](https://github.com/vefthroun/Namsefni-s2/tree/main/4-WTForms)) 
+  1. [WTForms](https://github.com/vefthroun/Namsefni-s2/tree/main/4-WTForms)
   1. [Sessions](https://github.com/vefthroun/Namsefni-s2/tree/main/4-Cookies%26Sessions)
   1. [Flash message](https://flask.palletsprojects.com/en/2.2.x/patterns/flashing/)
   <!--1. [PureCSS Form](https://purecss.io/forms/)-->
